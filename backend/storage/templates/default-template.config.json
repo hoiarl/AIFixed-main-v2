@@ -1,0 +1,21 @@
+{
+  "layouts": {
+    "cover": {
+      "sourceSlide": 1,
+      "useOriginalLayout": true,
+      "shapes": {
+        "title": "TITLE",
+        "subtitle": "SUBTITLE",
+        "body": "BODY"
+      }
+    },
+    "content": {
+      "sourceSlide": 2,
+      "useOriginalLayout": true,
+      "shapes": {
+        "title": "TITLE",
+        "body": "BODY"
+      }
+    }
+  }
+}

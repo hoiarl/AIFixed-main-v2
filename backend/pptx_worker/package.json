@@ -1,0 +1,10 @@
+{
+  "name": "presenton-pptx-worker",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "pptx-automizer": "^0.8.1",
+    "pptxgenjs": "^3.12.0"
+  }
+}
